@@ -1,0 +1,5 @@
+S::=MH|a
+H::=LSo|@
+K::=dML|@
+L::=eHf
+M::=K|bLM
